@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: adyen-python-online-payments
+  annotations:
+    github.com/project-slug: ankitapawarphilips/adyen-python-online-payments
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
