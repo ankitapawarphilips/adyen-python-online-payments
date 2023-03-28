@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: ankitapawarphilips/adyen-python-online-payments
 spec:
-  type: other
+  type: backend-service
   lifecycle: unknown
   owner: guests
